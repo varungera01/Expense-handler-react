@@ -1,0 +1,8 @@
+* text=auto
+
+# Force the following filetypes to have unix eols, so Windows does not break them
+*.* text eol=lf
+
+*.png binary
+*.jpg binary
+*.mp4 binary

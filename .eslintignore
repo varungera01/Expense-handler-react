@@ -1,0 +1,15 @@
+**/*.js
+**/*.d.ts
+**/*.svg.tsx
+
+node_modules
+.yarn
+
+# Build directories
+**/.next
+**/dist
+**/build
+**/lib
+
+# Misc
+**/.cache

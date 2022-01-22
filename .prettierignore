@@ -1,0 +1,30 @@
+# Logs
+logs
+**/*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Dependency directories
+node_modules
+.yarn
+
+# Build directories
+**/.next
+**/dist
+**/build
+**/lib
+
+# Misc
+.DS_Store
+**/.cache
+package-lock.json
+tsconfig.tsbuildinfo
+
+# Custom IDE extension settings
+codealike.json
+*.json
+*.svg
+*.svg.tsx
